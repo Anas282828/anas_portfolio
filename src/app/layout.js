@@ -9,7 +9,7 @@ import ScrollToTop from "/src/components/helper/scroll-to-top";
 export const metadata = {
   title: "Portfolio de Anas Mahhou",
   description:
-    "Je m'appelle Anas Mahhou, et je suis un programmeur passionné et curieux, avec un fort esprit d'auto-apprentissage. J'aime explorer de nouvelles technologies et résoudre des problèmes complexes. Fortement intéressé par le développement web, logiciel et mobile, je m'efforce de créer des expériences utilisateur intuitives et élégantes. Compétent en JavaScript, j'utilise ce langage pour divers projets.",
+    "Je m'appelle Anas Mahhou, et je suis un programmeur passionné et curieux, avec un fort esprit d'auto-apprentissage. J'aime explorer de nouvelles technologies et résoudre des problèmes complexes. Fortement intéressé par le développement web, logiciel et mobile, je m'efforce de créer des expériences utilisateur intuitives et élégantes. Compétent en JavaScript, Java et Python, j'utilise ces langages pour divers projets.",
 };
 
 export default function RootLayout({ children }) {
